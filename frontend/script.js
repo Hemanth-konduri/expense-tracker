@@ -5,7 +5,7 @@ const dateInput      = document.getElementById('date-input');
 const expensesGrid   = document.getElementById('expenses-grid');
 
 
-const API = 'http://localhost:3000'
+const API = 'https://expense-tracker-sx7a.onrender.com'
 let currentFilter = 'all';
 
 
